@@ -1,0 +1,44 @@
+Đây là biểu đồ Use Case tổng quát cho quản lý thư viện, bao gồm 3 tác nhân chính:  
+1. Thủ thư  
+2. Quản trị thư viện  
+3. Người đọc sách  
+ chức năng của từng tác nhân:
+ 1. Thủ thư  
+- Chức năng:  
+  - Quản lý kho sách  
+  - Quản lý độc giả  
+  - Quản lý mượn trả sách  
+  - Thống kê  
+- Lưu ý: Mọi chức năng của thủ thư đều yêu cầu đăng nhập vào hệ thống.
+
+ 2. Quản trị thư viện  
+- Chức năng:  
+  - Quản lý thủ thư (bao gồm việc quản lý các nhân viên thủ thư trong thư viện).  
+- Lưu ý: Quản trị viên cần đăng nhập bằng tài khoản admin để truy cập hệ thống.
+
+ 3. Người đọc sách  
+- Chức năng:  
+  - Tìm kiếm sách để mượn.  
+- Tác nhân thủ thư và quản trị thư viện cũng có quyền tìm kiếm sách, 
+nhưng phạm vi tìm kiếm sẽ rộng và chi tiết hơn so với người đọc sách.  
+
+   =) Tiếp theo là biểu đồ Use Case cho quản trị thư viện,
+ trong đó bao gồm các chức năng chính:  
+1. Quản lý thủ thư  
+   - Gồm các thao tác:  
+     - Thêm thủ thư: Khi cần bổ sung nhân viên mới.  
+     - Sửa thủ thư: Khi cần chỉnh sửa thông tin của nhân viên thủ thư.  
+     - Xóa thủ thư: Khi nhân viên nghỉ việc hoặc không còn làm việc tại thư viện.  
+
+2. Tìm kiếm  
+   - Chức năng tìm kiếm của người quản trị bao quát và chi tiết hơn, bao gồm:  
+     - Tìm kiếm sách trong thư viện.  
+     - Tìm kiếm thông tin người đọc đang mượn sách.  
+     - Tìm kiếm các phiếu mượn để xem chi tiết thông tin.  
+
+
+    =)tiếp theo là biểu đồ use case của người đọc sách
+    chỉ có 1 chức năg tìm kiếm sách 
+    tìm đc sẽ báo cho thủ thư
+
+
