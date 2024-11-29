@@ -1,0 +1,20 @@
+vẽ thêm
+thủ thư > đăng ký tài khoản mới > cấp thẻ thư viện
+trả sách > trả tiền 
+sách bị hư , mất, trả tiền phạt
+huỷ tư cách thành viên
+chỉnh sửa sách 
+thêm sửa xoá xong đểu phải cập nhật sách
+
+
+độc giả 
+gia hạn sách
+xem tài khoản
+đăng ký cập nhật tài khoản sửa tên sdt các kiểu
+tìm kiếm theo danh mục ,Theo ngày xuất bản ,Theo tên sách,
+Theo tên tác giả,Theo tên chủ đề,
+thêm vào sách dự trự (giỏ hàng) , muốn mua bấm xác nhận thanh toán, thêm voucher các kiểu xong ok
+
+
+vẽ thêm actor Bot 
+thông báo quá hạn        
