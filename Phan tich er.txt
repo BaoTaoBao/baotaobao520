@@ -1,0 +1,55 @@
+Các thực thể và mối quan hệ
+Quản trị thư viện (Library Administration)
+Quản lý thủ thư (Librarian Management)
+Tìm người đọc (Search Reader)
+Tìm sách (Search Book)
+Tìm phiếu mượn (Search Borrowing Receipt)
+
+Thủ thư (Librarian)
+Quản lý kho sách (Manage Book Inventory)
+Quản lý độc giả (Manage Reader)
+Quản lý mượn trả sách (Manage Borrowing and Returning)
+Thống kê (Statistics)
+Người đọc sách (Reader)
+
+Đăng nhập (Login)
+Thêm người đọc (Add Reader)
+Sửa người đọc (Edit Reader)
+Xoá người đọc (Delete Reader)
+Mượn sách (Borrow Book)
+Trả sách (Return Book)
+Thống kê sách mượn (Borrowing Statistics)
+
+Sách (Book)
+
+Thêm sách (Add Book)
+Sửa sách (Edit Book)
+Xoá sách (Delete Book)
+Cập nhật sách (Update Book)
+
+Phiếu mượn (Borrowing Receipt) 
+Thống kê phiếu mượn (Borrowing Statistics)
+
+Các mối quan hệ giữa các thực thể
+Quản trị thư viện có thể Quản lý thủ thư (Một quản trị viên có thể quản lý nhiều thủ thư).
+Thủ thư có thể Quản lý kho sách (Một thủ thư có thể quản lý nhiều sách).
+Thủ thư có thể Quản lý độc giả (Một thủ thư có thể quản lý nhiều người đọc).
+Thủ thư có thể Quản lý mượn trả sách (Một thủ thư có thể quản lý nhiều phiếu mượn).
+Người đọc sách có thể Mượn sách (Mỗi người đọc có thể mượn nhiều sách).
+Người đọc sách có thể Trả sách (Mỗi người đọc có thể trả nhiều sách).
+Người đọc sách có thể có Phiếu mượn (Mỗi người đọc có thể có một hoặc nhiều phiếu mượn).
+Sách có thể được Mượn hoặc Trả (Một sách có thể được mượn bởi nhiều người đọc).
+Thống kê có thể liên quan đến Thống kê sách mượn và Thống kê người đọc (Thống kê tổng hợp về sách mượn và người đọc).
+
+Các mối quan hệ mở rộng (Extend/Include)
+Extend: Làm mở rộng chức năng của các mối quan hệ chính.
+
+Thêm thủ thư, Xoá thủ thư, Sửa thủ thư mở rộng mối quan hệ quản lý thủ thư.
+Thêm sách, Sửa sách, Xoá sách mở rộng mối quan hệ quản lý kho sách.
+Thêm người đọc, Sửa người đọc, Xoá người đọc mở rộng mối quan hệ quản lý người đọc.
+Mượn sách, Cập nhật sách, Trả sách mở rộng mối quan hệ mượn trả sách.
+Thống kê sách mượn, Thống kê người đọc mở rộng mối quan hệ thống kê.
+Include: Chức năng bắt buộc để hoàn thành một mối quan hệ.
+
+Tìm kiếm là chức năng bao gồm trong các mối quan hệ như tìm người đọc, tìm sách, và tìm phiếu mượn.
+Đăng nhập là một phần bắt buộc cho người đọc để tương tác với hệ thống.
