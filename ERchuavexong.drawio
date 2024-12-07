@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2524" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2245" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,8 +391,8 @@
         <mxCell id="beYNYx_X1feckc-HWX2N-90" value="n:m" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-91.25" y="250" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="beYNYx_X1feckc-HWX2N-93" value="một cuốn sách có thể được mượn bởi nhiều độc giả trong những lần mượn khác nhau" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-570" y="240" width="490" height="40" as="geometry" />
+        <mxCell id="beYNYx_X1feckc-HWX2N-93" value="một cuốn sách có thể được mượn bởi nhiều &lt;br&gt;độc giả trong những lần mượn khác nhau" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-436.25" y="270" width="246.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
